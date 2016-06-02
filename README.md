@@ -3,7 +3,7 @@
 ## A userscript to clear up ads in douban.
 ## 一段简单的去除豆瓣网上各种广告的 userscript 代码。
 
-### Features:特性：
+### Features: 特性：
 
  - Remove picture ads in side bar.
 移除右边侧边栏广告图片
@@ -14,7 +14,7 @@
  - Remove douban Shi Ji ads in status stream.
  移除状态更新中豆瓣市集的广告
 
-### Usage:使用方法：
+### Usage: 使用方法：
 
 1. Install add-on supporting userscript for your browser. 安装支持 userscript 的浏览器插件。
 
