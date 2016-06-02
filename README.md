@@ -1,3 +1,3 @@
 # AD-free-douban
 
-A script to clear up ads in douban.
+A userscript to clear up ads in douban.
