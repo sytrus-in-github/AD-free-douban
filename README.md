@@ -20,6 +20,7 @@
 
     For more information on corresponding add-ons for your browser and on userscript, consider the following link:
     有关相应的浏览器所支持的插件，以及更多关于 userscript 信息，请参考以下链接：
+    
     https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-beginners-HOWTO
 2. Click on the following link to add this script: 点击以下链接添加本代码：
 
